@@ -9,7 +9,9 @@
 
 ## API
 
-   
+		var html = require('bmcmahen-html');
+		html(el, '<div>bacon</div>');
+
 
 ## License
 
