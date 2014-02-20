@@ -1,0 +1,12 @@
+{
+  "name": "bmcmahen-html",
+  "description": "replace the html content of a DOM element with a string or node",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "bmcmahen-append": "git://github.com/npmcomponent/bmcmahen-append.git",
+    "yields-empty": "git://github.com/npmcomponent/yields-empty.git"
+  },
+  "license": "MIT"
+}
